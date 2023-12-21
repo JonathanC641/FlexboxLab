@@ -4,6 +4,9 @@ body {
 }
 
 .footer {
+  display: flex; 
+  flex-direction: row; 
+  justify-content: space-evenly;
   height: 150px;
   background-color: lightgrey;
 }
